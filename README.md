@@ -2,6 +2,7 @@
 Auth login and CRUD mvc
 
 Login
--Email : alisaput17@gmail.com
+
+-Email : aldisaput17@gmail.com
 -Password :-123456
 
